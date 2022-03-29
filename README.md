@@ -1,4 +1,4 @@
-# Hellow_World
+# Hello_World
 This is my first program (or repository) on Github, nice to meet you!!! 
 
 Hi, every 大佬 (or so-called big shot, maybe) in Github!
@@ -9,7 +9,7 @@ I am new in C++ for 4 months, and I want to learn Python in winter holiday since
 I hope I can learn something new here, and also leave something helpful to others here.
 nice to meet you again!
 
-# Hellow_World
+# Hello_World
 这是我在Github上的第一个程序（或存储库），很高兴认识您！！！
 
 嗨，Github中的各位大佬（或者也许是所谓的大人物）！
